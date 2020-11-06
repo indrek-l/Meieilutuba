@@ -1,2 +1,2 @@
-# Minu-tuba
+# Meieilutuba
 Seminari ülesanne
