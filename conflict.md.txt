@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 See on seekord hoopis kolmas rida.
+=======
+Tututuu * Indrek muutis seda rida
+>>>>>>> 5de32f012d16a29b46d226133a32241ba2a38014
 See on teine.
 Kolmas ka.

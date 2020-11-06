@@ -1,2 +1,0 @@
-# Meieilutuba
-Seminari ülesanne
