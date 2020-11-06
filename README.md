@@ -1,0 +1,2 @@
+# Minu-tuba
+Seminari ülesanne
